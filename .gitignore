@@ -1,4 +1,7 @@
 .vs/
 bin/
 bin-int/
-.vcxproj
+*.vcxproj
+*.ini
+*.user
+*.filters
